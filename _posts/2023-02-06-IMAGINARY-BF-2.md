@@ -1,7 +1,7 @@
 ---
 title: Imaginary Boyfriend - Part 2
 date: 2023-02-06 22:04:00 +0530
-categories: [IMAGINARY GF]
+categories: [IMAGINARY BF]
 author: chirandi
 img_path: /assets/
 ---
