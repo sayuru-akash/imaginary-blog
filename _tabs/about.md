@@ -7,7 +7,7 @@ order: 4
 # Welcome to ImagineThat.ONE<br>
 > a blog created by our team to showcase our passion for creative writing. We believe that storytelling is a powerful tool that allows us to explore the imaginative world of emotions and relationships. 
 {: .prompt-tip }
-> 
+
 <br>
 Our website is exclusive to our team, and it offers a safe space for us to express our thoughts, ideas, and emotions. We have a talented group of writers that are committed to providing high-quality content that is engaging and inspirational to our readers. <br><br>
 
