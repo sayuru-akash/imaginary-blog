@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/imaginary-blog'
+baseurl: ''
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Presenting imaginary love stories written to their imaginary BF/GF
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://sayuru-akash.github.io'
+url: 'http://imaginethat.one'
 
 github:
   username: sayuru-akash             # change to your github username
