@@ -41,6 +41,6 @@ img_path: /assets/
 කන්දක් වාගේ නිසසල හිත <br>
 අනන්තයට ඉගිලෙන සිතුවිලි නවතාලන්නට බැරි නම් මට <br>
 බැලූවම මගෙත් නෙමෙයි මේ හිත <br>
-…. <br> <br>
+…. <br> <br><br>
 #ලෝකිගේලෝකය #imaginarygirlfriend #howimether #love #හඬපටහාරූපකසහිතයි
 #Imaginarygirlfriendbyloki #part5
